@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/repository/main/path/to/python-logo.png" alt="Python Logo" width="400"/>
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python Logo" width="400"/>
 </p>
 
 
