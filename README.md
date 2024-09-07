@@ -20,7 +20,9 @@ This project helps users calculate their Body Mass Index (BMI) and categorize it
 ## Features
 
 Calculates BMI (Body Mass Index) based on user input.
+
 Categorizes BMI into health categories (Underweight, Normal, Overweight, Obese).
+
 Validates user input to ensure positive values.
 
 ## Code Structure
