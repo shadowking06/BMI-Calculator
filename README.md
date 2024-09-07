@@ -2,6 +2,7 @@
   <img src="https://raw.githubusercontent.com/username/repository/main/path/to/python-logo.png" alt="Python Logo" width="400"/>
 </p>
 
+
 # ⚖️ BMI Calculator
 
 A simple command-line BMI calculator written in Python. 
