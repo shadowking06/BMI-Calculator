@@ -8,11 +8,6 @@ A simple command-line BMI calculator written in Python.
 
 This project helps users calculate their Body Mass Index (BMI) and categorize it into various health ranges based on standard BMI values.
 
-# BMI Calculator
-================
-
-A simple command-line BMI calculator written in Python.
-
 ## Usage
 
 1. Clone this repository to your local machine.
@@ -32,7 +27,9 @@ Validates user input to ensure positive values.
 The code is organized into three functions:
 
  `calculate_bmi`: calculates the BMI based on user input.
+ 
  `categorize_bmi`: categorizes the BMI into health categories.
+ 
  `main`: prompts user input and displays results.
 
 ## Contributing
