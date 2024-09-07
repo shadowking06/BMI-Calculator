@@ -33,6 +33,10 @@ The code is organized into three functions:
  
  `main`: prompts user input and displays results.
 
+ ## 🧑‍💻 Development Environment
+
+Developed using **Visual Studio Code**, which provides a powerful IDE for Python development. 🖥️
+
 ## Contributing
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
